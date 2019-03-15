@@ -1,0 +1,21 @@
+.TabbedPanelsContentGroup {
+	clear: both;
+	background-color: #242321 !important;
+	border-radius:4px 4px 4px 4px;
+	font-size: 15px;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+	margin-top: 37px !important;
+}
+.TabbedPanelsTab{
+	background-color: #1A1917;
+}
+.TabbedPanelsTabSelected{
+	background-color: #242321;
+	color: #F5CC29;
+}
+.thong_ke {
+	margin-bottom: 40px;
+	margin-right: 13px;
+	border: none;
+}
